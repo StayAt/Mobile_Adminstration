@@ -1,4 +1,4 @@
-Mobile_Admin
+<img src="http://StayAt.org/icons/OpenNTF.bmp" alt="OpenNTF">  Mobile_Admin
 ============
 
 <img src="http://StayAt.org/icons/sofa01.jpg" alt="Sofa01">   rel. 0.1
