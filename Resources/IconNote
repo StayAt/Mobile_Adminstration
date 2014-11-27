@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<note default='true' class='icon' xmlns='http://www.lotus.com/dxl' version='9.0'
+ maintenanceversion='1.0' replicaid='C1257D7F0059B597'>
+<noteinfo noteid='11a' unid='41F3BE2C2EE0A265C1257D7F0059B5A4' sequence='11'>
+<created><datetime>20141028T171952,04+01</datetime></created>
+<modified><datetime>20141127T115207,72+01</datetime></modified>
+<revised><datetime>20141127T115207,71+01</datetime></revised>
+<lastaccessed><datetime>20141127T115207,72+01</datetime></lastaccessed>
+<addedtofile><datetime>20141028T171952,10+01</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Marcel Bussien/O=plx</name></updatedby>
+<item name='$Flags'><text>J</text></item>
+<item name='$Daos'><text>0</text></item>
+<item name='$TITLE'><text>Mobile Admin 1.0
+</text></item>
+<item name='IconBitmap' summary='true'>
+<rawitemdata type='6'>
+AiAgAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAARERERERERERERERERERERERERERERERERERERERERERHw7v/+
+7u7u7u7u7v/+4AER8A/////u7u7u7////wABER4AEREREREREREREREAEREQABERERERERERERER
+ABER4A4REREREREREREREQABEeAADvERERERERER/wAAAREQAAAAAAAAAAAAAAAAAAEREAAAAAAA
+AAAAAAAAAAARERAIgAiIiIiIiAiIgAiAEREQCIiIiIiIiIgIiIiIgBEREIiIiIiIiIiICIiIiIDh
+ERCIiLIigiiIiAgiKIiIARHgiIiIgAAL4AAAiIiIiAERAIiIiIAADgAACIiIiIgBEQiIiIiIAAAA
+AIiIiIiIDxEIiIiIiICIiIiIiIiIiIAeCIiIiIiIiIiIiIiIiIiAgAiIiIiIiIiIiIiIiIiCgICC
+iIiIiIKIiIiIiIiIiIAAgoiIiIiIiIiIiIiIiIiIAIKIiIiIiIgiiIiIiIiIKAgoiIiIiIiIiIiI
+iIiIiCiIIoiIiIiIiIiIiIiIiIIiIiIoiIiIgiiIIoiIiIgisv/+4oiIiIiIiIiIiIiCvu8RER8o
+iCiIiCiIiIKIjhERERERHoiCKIgoiIIoixERERERERH7iCIiKCIuiOEREREREREREeuI7r7uiL8R
+ERERERERERERH+7u7vEREREREQ==
+</rawitemdata></item></note>
+
