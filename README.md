@@ -16,7 +16,7 @@ the Mobile Administration (mobileAdmin) allows to Manage Your Notes Users From T
 
 It is a completely native app, using just Java. The Domino Data Service api is used to replicate with IBM Domino. This requires the server to be either release 9+ or it can be release 8.5.3+ with the Extension Library or Upgrade Pack.
 
-Take a look name testit <a href="http://stayat.org/mobAdmin.nsf"><img src="http://StayAt.org/icons/Sofa32_32.jpg" alt="Sofa32_32"></a>  pwd test77it (mobile only)
+Take a look name testit ...  <a href="http://stayat.org/mobAdmin.nsf"><img src="http://StayAt.org/icons/Sofa32_32.jpg" alt="Sofa32_32"></a>  ... pwd test77it (mobile only)
 
 The app is Open Source and Apache License 2.0.
 
