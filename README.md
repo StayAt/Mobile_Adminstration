@@ -2,16 +2,16 @@
 Mobile_Admin
 ============
 
-<img src="http://StayAt.org/icons/sofa01.jpg" alt="Sofa01">   rel. 0.1
+<img src="http://StayAt.org/images/plx/sofa01.jpg" alt="Sofa01">   rel. 0.1
 
 the Mobile Administration (mobileAdmin) allows to Manage Your Notes Users From The Sofa on your Android/iPhone device.
 
 
-<img src="http://StayAt.org/icons/New01.gif" alt="New"> register new Notes Users through lotus.domino.Registration class
+<img src="http://StayAt.org/images/plx/New01.gif" alt="New"> register new Notes Users through lotus.domino.Registration class
 
-<img src="http://StayAt.org/icons/Rename01.gif" alt="Rename"> rename Notes Users by hand them out to AdminP process
+<img src="http://StayAt.org/images/plx/Rename01.gif" alt="Rename"> rename Notes Users by hand them out to AdminP process
 
-<img src="http://StayAt.org/icons/Delete01.gif" alt="Delete"> delete Notes Users by hand them out to AdminP process
+<img src="http://StayAt.org/images/plx/Delete01.gif" alt="Delete"> delete Notes Users by hand them out to AdminP process
 
 
 It is a completely native app, using just Java. The Domino Data Service api is used to replicate with IBM Domino. This requires the server to be either release 9+ or it can be release 8.5.3+ with the Extension Library or Upgrade Pack.
