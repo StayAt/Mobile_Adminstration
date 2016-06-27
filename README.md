@@ -1,4 +1,4 @@
-<a href="http://stayat.org/confluence/display/MOB"><img src="http://StayAt.org/icons/OpenNTF.bmp" alt="OpenNTF"></a>
+<a href="http://stayat.org/confluence/display/MOB"><img src="http://StayAt.org/images/plx/OpenNTF.bmp" alt="OpenNTF"></a>
 Mobile_Admin
 ============
 
